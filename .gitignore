@@ -1,0 +1,9 @@
+.DS_Store
+.idea/*
+*.iml
+*.env
+node_modules/*
+
+.ipynb_checkpoints
+__pycache__
+env.py
