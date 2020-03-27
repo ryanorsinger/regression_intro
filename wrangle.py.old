@@ -47,6 +47,5 @@ def clean_telco_data(df):
     return df
 
 def wrangle_telco():
+    """ Call this function in order to get the cleaned telco data """
     return clean_telco_data(get_telco_data())
-
-df = wrangle_telco()
